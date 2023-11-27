@@ -1,0 +1,45 @@
+/* style.css */
+
+/* Apply styles to the entire body */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the header */
+h1 {
+    color: #333;
+    text-align: center;
+    padding: 20px;
+    background-color: #61a8ff;
+    margin: 0;
+}
+
+/* Style the list */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Style list items */
+li {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Style the links */
+li a {
+    color: #4CAF50;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Hover effect on links */
+li a:hover {
+    color: #333;
+}
